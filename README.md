@@ -6,3 +6,4 @@ You could find different folders:
 	- /releases: You will find different releases generated for different platforms
 	- /binaries: Just download, execute the *.exe in Windows and a new text file will appear with the seed inside
 
+For donations with IOTA: ZMHNVZCVIFI9ONVWTVKGMOKBDIZRHMINYXQBVWMEQSYGHKAGTXJAJPDZCPAOZVKICSGXPDAXSITTYTFDWP9XLWILX9
